@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/d1216ff8-a3e7-438e-994a-3285ae52f4b5
 <h1 align="center">🍲 Recipe Finder React</h1>
 
 <br>
@@ -52,4 +50,4 @@ cd Recipe-finder-react
 ❗ Please note that the images and recipe details are fetched dynamically from the MealDB API, so ensure you have an active internet connection to view the content.
 
 
-Uploading Recording 2024-12-29 221357.mp4…
+[Uploading Recording 2024-12-29 221357.mp4…](https://github.com/user-attachments/assets/d1216ff8-a3e7-438e-994a-3285ae52f4b5)
